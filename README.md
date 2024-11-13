@@ -1,5 +1,4 @@
-Ovarian Cancer Image Classification Project
-Overview
+Ovarian Cancer Image Classification Project:
 This project focuses on classifying ovarian cancer images using three deep learning models:
 
 InceptionV3
